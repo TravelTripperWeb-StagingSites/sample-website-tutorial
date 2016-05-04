@@ -41,6 +41,12 @@
     "default_text": "Selct One",
     "options": ["Type One", "Type Two"]
   },
+  "error_mx1_amenity_type": {
+    "type": "enum",
+    "multiple": true,
+    "default_text": "Selct One",
+    "options": ["Type One", ["ID2", "Type Two"]]
+  },
   "image": {
     "type": "image",
     "default_text": "Selct One"
