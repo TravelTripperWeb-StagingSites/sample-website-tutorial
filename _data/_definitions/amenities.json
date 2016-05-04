@@ -15,13 +15,13 @@
     "type": "enum",
     "multiple": false,
     "default_text": "Selct One",
-    "options": [ ["Type One", "Type One"], ["Type Two", "type-two"]}]
+    "options": [ ["Type One", "Type One"], ["Type Two", "type-two"]]
   },
   "x1_amenity_type": {
     "type": "enum",
     "multiple": false,
     "default_text": "Selct One",
-    "options": [ ["Type One"], ["Type Two"]}]
+    "options": [ ["Type One"], ["Type Two"]]
   },
   "multiple_amenity_type": {
     "type": "enum",
@@ -33,13 +33,13 @@
     "type": "enum",
     "multiple": true,
     "default_text": "Selct One",
-    "options": [ ["Type One", "Type One"], ["Type Two", "type-two"]}]
+    "options": [ ["Type One", "Type One"], ["Type Two", "type-two"]]
   },
   "mx1_amenity_type": {
     "type": "enum",
     "multiple": true,
     "default_text": "Selct One",
-    "options": [ ["Type One"], ["Type Two"]}]
+    "options": [ ["Type One"], ["Type Two"]]
   },
   "image": {
     "type": "image",
