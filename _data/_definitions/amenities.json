@@ -5,6 +5,9 @@
   "date": {
     "type": "date"
   },
+  "date_localized": {
+    "type": "date"
+  },
   "permalink": {
     "placeholder": "Specify a URL."
   },
