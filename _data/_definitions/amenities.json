@@ -11,6 +11,12 @@
     "default_text": "Selct One",
     "options": [["Type One", "Type One"], ["Type Two", "type-two"]]
   },
+  "multiple_amenity_type": {
+    "type": "enum",
+    "multiple": true,
+    "default_text": "Selct Any",
+    "options": [["Type One", "Type One"], ["Type Two", "type-two"]]
+  },
   "image": {
     "type": "image",
     "default_text": "Selct One"
