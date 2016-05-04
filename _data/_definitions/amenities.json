@@ -2,8 +2,8 @@
   "name": {
     "hint": "Give the amenity a name."
   },
-  "datetime": {
-    "type": "datetime"
+  "date": {
+    "type": "date"
   },
   "permalink": {
     "placeholder": "Specify a URL."
