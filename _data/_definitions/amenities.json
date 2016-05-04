@@ -21,7 +21,7 @@
     "type": "enum",
     "multiple": false,
     "default_text": "Selct One",
-    "options": [ ["Type One"], ["Type Two"]]
+    "options": ["Type One", "Type Two"]
   },
   "multiple_amenity_type": {
     "type": "enum",
@@ -39,7 +39,7 @@
     "type": "enum",
     "multiple": true,
     "default_text": "Selct One",
-    "options": [ ["Type One"], ["Type Two"]]
+    "options": ["Type One", "Type Two"]
   },
   "image": {
     "type": "image",
