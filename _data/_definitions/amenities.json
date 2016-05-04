@@ -9,13 +9,13 @@
     "type": "enum",
     "multiple": false,
     "default_text": "Selct One",
-    "options": [["Type One", "Type One"], ["Type Two", "type-two"]]
+    "options": [{"id": "Type One", "name": "Type One"}, {"id": "Type Two", "name": "type-two"}]
   },
   "multiple_amenity_type": {
     "type": "enum",
     "multiple": true,
     "default_text": "Selct Any",
-    "options": [["Type One", "Type One"], ["Type Two", "type-two"]]
+    "options": [{"id": "Type One", "name": "Type One"}, {"id": "Type Two", "name": "type-two"}]
   },
   "image": {
     "type": "image",
