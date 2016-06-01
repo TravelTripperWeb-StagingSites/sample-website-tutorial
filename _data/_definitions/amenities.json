@@ -9,13 +9,12 @@
   },
   "image": {
     "type": "image",
-    "default_text": "Selct One",
     "required": true
   },
   "amenity_type": {
     "type": "enum",
     "multiple": false,
-    "default_text": "Selct One",
+    "default_text": "Select One",
     "options": [["Type One", "Type One"], ["Type Two", "type-two"]],
     "required": true
   },
