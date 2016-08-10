@@ -7,16 +7,28 @@
     "type": "integer"
   },
   "permalink": {
-    "placeholder": "Specify a URL."
+    "placeholder": "Specify a URL.",
+    "required": true
   },
   "image": {
-    "type": "image",
+    "type": "image"
   },
   "amenity_type": {
     "type": "enum",
     "multiple": false,
     "default_text": "Select One",
-    "options": [["Type One", "Type One"], ["Type Two", "type-two"]]
+    "options": [["Type One", "Type One"], ["Type Two", "type-two"]],
+    "required": true
+  },
+  "short_description": {
+    "type": "text",
+    "required": true,
+    "instructions": "Test instruction placement"
+  },
+  "start_date": {
+    "type": "date",
+    "required": true,
+    "instructions": "Test instruction placement for dates"
   },
   "description": {
    "type": "richtext",
