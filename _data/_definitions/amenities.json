@@ -3,9 +3,6 @@
     "hint": "Give the amenity a name.",
     "required": true
   },
-  "order": {
-    "type": "integer"
-  },
   "permalink": {
     "placeholder": "Specify a URL.",
     "required": true
