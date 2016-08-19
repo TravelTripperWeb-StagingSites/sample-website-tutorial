@@ -13,6 +13,9 @@
   "image": {
     "type": "image"
   },
+  "order": {
+    "type": "float"
+  },
   "amenity_type": {
     "type": "enum",
     "multiple": false,
