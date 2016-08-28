@@ -1,7 +1,1 @@
-{
-  "name": "Room Service",
-  "image": {
-    "url": "/assets/images/amenities/room_service.jpg"
-  },
-  "description": "<p>Breakfast in bed.</p>"
-}
+{"name":"Room Service","image":{"url":"/assets/images/amenities/room_service.jpg"},"description":"<p>Breakfast in bed.</p>\n<p>&nbsp;</p>\n<p><img src=\"../../assets/images/amenities%2Froom_service.jpg?sha=b6c726fd461ba2215706e61a71ad3f94f64cf1bd\" width=\"114\" height=\"76\" /></p>","permalink":"room-service","short_description":"Test","start_date":"2016-08-01"}
