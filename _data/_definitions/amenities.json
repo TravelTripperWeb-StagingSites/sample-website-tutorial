@@ -3,15 +3,15 @@
     "hint": "Give the amenity a name.",
     "required": true
   },
-  "order": {
-    "type": "integer"
-  },
   "permalink": {
     "placeholder": "Specify a URL.",
     "required": true
   },
   "image": {
     "type": "image"
+  },
+  "order": {
+    "type": "float"
   },
   "amenity_type": {
     "type": "enum",
